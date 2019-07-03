@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="gsmtCampPlacing.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CouncilID" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">52</Value>
+    </Setting>
+    <Setting Name="SMTPhost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.sendgrid.net</Value>
+    </Setting>
+    <Setting Name="TestMobilePhoneNo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7275153363</Value>
+    </Setting>
+    <Setting Name="TestEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">blake.eversole@dataAccessSolutions.net</Value>
+    </Setting>
+    <Setting Name="CouncilEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">noreply@councilAlignMENT.com</Value>
+    </Setting>
+    <Setting Name="swi_API_key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3D-D9-52-C4-45-C7-A5-9C-B4-1F-6A-44-00-A4-C0-52-AC-7C-5F-BC</Value>
+    </Setting>
+    <Setting Name="swi_username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dasapi</Value>
+    </Setting>
+    <Setting Name="swi_password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dataaccess1</Value>
+    </Setting>
+    <Setting Name="swi_callerID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8444640033</Value>
+    </Setting>
+    <Setting Name="swi_smsFromName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CouncilAlignMENT</Value>
+    </Setting>
+    <Setting Name="swi_timeZone" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CST</Value>
+    </Setting>
+    <Setting Name="sendgrid_username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CouncilAlignMENT</Value>
+    </Setting>
+    <Setting Name="sendgrid_password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Alignment101</Value>
+    </Setting>
+    <Setting Name="isDemoMode" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="connString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=10.135.248.13;Initial Catalog=CADB_DEV;User id=dgdasf;Password=das$db77!;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=10.135.248.13;Initial Catalog=CADB_DEV;User id=dgdasf;Password=das$db77!;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
